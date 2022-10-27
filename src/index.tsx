@@ -637,7 +637,7 @@ const styles = {
     textIndent: 'inherit',
     textRendering: 'inherit',
     textTransform: 'inherit',
-    whiteSpace: 'pre-wrap',
+    whiteSpace: 'normal',
     wordBreak: 'keep-all',
     overflowWrap: 'break-word',
   },
